@@ -568,7 +568,7 @@ Fokus pada bagian: **"rata-rata yang berbeda"**
 
 ## 📄 Referensi
 
-Shrajankumar. (2023). *Introduction To ANOVA For Beginners*. Medium. [PDF Source]  
+Shrajankumar. (2023). *Introduction To ANOVA For Beginners*. Medium.
 GitHub: [github.com/ShrajanKumar](https://github.com/ShrajanKumar)
 
 <div align=center>
